@@ -1,3 +1,3 @@
 # games-wiki
 
-#Direct website link: https://rockyhack-games.netlify.app/
+#Direct website link: https://rockyhack-game-wiki.netlify.app/
